@@ -13,7 +13,7 @@ install_requires = [
 ]
 
 setup(
-    name='cassandra_backups',
+    name='cassandra_backups_ek',
     version=__version__,
     maintainer='Eliran Kimaigarov',
     maintainer_email='eliran@lusha.co',

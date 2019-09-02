@@ -17,7 +17,7 @@ setup(
     version=__version__,
     maintainer='Eliran Kimaigarov',
     maintainer_email='eliran@lusha.co',
-    url='file://cassandra_backups',
+    url='https://github.com/eliran-lusha/cassandra_backups_ek',
     description='cassandra_backups is a tool to backup a Cassandra cluster to Amazon S3.',
     packages=find_packages(),
     zip_safe=False,
